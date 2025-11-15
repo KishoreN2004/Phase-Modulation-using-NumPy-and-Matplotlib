@@ -28,12 +28,20 @@ o	Use Matplotlib to plot the message signal, carrier signal, and phase-modulated
 
 ### Program
 
+<img width="1092" height="711" alt="Screenshot 2025-10-15 175451" src="https://github.com/user-attachments/assets/95524954-ab8f-47d2-ab46-5e0fd263629e" />
+<img width="448" height="314" alt="Screenshot 2025-10-15 175815" src="https://github.com/user-attachments/assets/786c4743-152c-48a1-8f3b-592cad32187d" />
+
 
 ### Tabulation
+
+![WhatsApp Image 2025-11-15 at 10 55 54_aa500d53](https://github.com/user-attachments/assets/b9d2ae25-e17f-462a-8447-8ad2647f8f3a)
 
 
 ### Output
 
+<img width="915" height="906" alt="Screenshot 2025-10-23 161520" src="https://github.com/user-attachments/assets/69030bbc-2e86-4e62-b914-14a4c7ca2d66" />
 
 ### Result
+
+The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots. The modulated signal will show phase variations corresponding to the amplitude of the message signal.
 
